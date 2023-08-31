@@ -1,0 +1,108 @@
+
+*{
+
+  margin: 0px;
+  padding: 0px;
+   
+  } 
+  .root { 
+    height: 100%;
+  }
+.allll { 
+height: 100%;
+}
+  
+
+  .io{
+
+    background-color: #21354e;
+    display: inline-block;
+    height: 753PX ;
+    width: 200px;
+       
+      }   
+      nav{
+
+      color: white;
+             
+            } 
+            
+.menu{
+
+    font-size: large; 
+    margin-left: 70px;
+    margin-top: 20px;                   
+  }
+
+
+  i{
+
+    width: 50px;     
+    margin-top: -8px;              
+  }
+
+  .po{
+text-decoration: none; 
+color: white;
+transition: var(--tran-04);
+
+width: 400px;
+height: 100px;
+  }
+
+  .po:hover{
+     color:black;
+     background-color:  #eceef0;
+    
+        } 
+.firr:hover{
+      background-color:#eceef0 ;
+      color: black;
+              }
+.ko{
+                background-color:#21354e;
+                color: white;
+                border: none;
+                width: 280px;
+                height: 40px;
+                margin-left: -80px;
+                transition-delay: 0.1s;
+                        }
+.ko:hover{
+                        background-color:white ;
+                          color:#21354e ;
+                          transition-duration: 0.3s;
+
+                        
+                                  }
+
+                                  .koo{
+                                    background-color: #21354e;
+                                    color: white;
+                                    border: none;
+                                    width: 237px;
+                                    height: 40px;
+                                    margin-left: -37px;
+                                    transition-delay: 0.1s;
+                                            }
+                                            .koo:hover{
+                                              background-color:white ;
+                                              color:#21354e ;
+                                              transition-duration: 0.3s;
+                                                      } 
+
+
+                                                      .kooo{
+                                                        background-color: #21354e;
+                                                        color: white;
+                                                        border: none;
+                                                        width: 276px;
+                                                        height: 40px;
+                                                        margin-left: -76px;
+                                                        transition-delay: 0.1s;
+                                                                }
+                                                                .kooo:hover{
+                                                                  background-color:white ;
+                                                                  color:#21354e ;
+                                                                  transition-duration: 0.3s;
+                                                                          }

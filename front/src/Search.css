@@ -1,0 +1,211 @@
+
+ .inp{
+
+  height: 40px;
+   
+ position: absolute;
+ left: 230px;
+  margin-top: -60px;
+  background-color: #f5f5f5;
+ 
+  border: none;
+  
+  display: flex;
+  cursor: pointer;
+padding: 5px 10px;
+padding-right: 25px;
+padding-left: 25px;
+ border-radius: 40px;
+  align-items: center;
+ 
+position: absolute;
+top: 100px;
+ 
+ }
+ .inp:hover input{
+
+width: 380px;
+
+ 
+} 
+
+
+#upd {
+  border: none;
+  padding-top: 21px;
+} 
+ #bb { 
+  padding-left: 108px;
+ }
+
+.inp input{
+
+
+   background-color: #fff;
+    
+   }
+ .t{
+
+  color: #21354e;
+  font-size:large;
+
+   
+    
+   }
+   .aj{
+
+    position: absolute;
+    top: 40px;
+    margin-left: 1000px;
+    width: 150px;
+    height: 35px;
+    background-color:#21354e ;
+    color:white ;
+       
+        
+       }
+       .aj:hover{
+
+        background-color:#21354e ;
+        color: white;
+            
+             
+            }
+   .ta{
+
+    position: absolute;
+    top: 120px;
+    margin-left: 225px;
+    color: #21354e;
+    font-size: x-large;
+       
+        
+       }
+
+.inp input{
+
+   width: 0px;
+   outline: none;
+   border: none;
+   font-weight: 500px;
+   transition: 0.8s;
+   background: transparent;
+   
+    
+   }
+
+
+  .ui{
+margin-left: 700px;
+position: absolute;
+top: 40px;
+width: 250px;
+height: 40px;
+border: 0!important;
+outline: 0;
+box-shadow: none;
+border-radius: .2em;
+cursor: pointer;
+flex: 1;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+   background-color: #f5f5f5;
+    
+   }
+
+   .ui-ms-expand{
+ display: none;
+         
+          
+         }
+   .ui::after{
+            content: '\25bc';
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            cursor: pointer;
+            transition: .25s all ease;      
+                     
+                    }
+ .ta{
+                     color: black; 
+                  font-family: "arial";
+                  font-size: 3em;
+                
+                  white-space: nowrap;
+                  overflow: hidden;
+                width: 80%;
+                 
+                }
+            
+                
+                .ta{
+
+                  position: absolute;
+                  top: 120px;
+                  margin-left: 225px;
+                  color: #21354e;
+                  font-size: x-large;
+                     
+                      
+                     }
+   select.decorated option:hover{ 
+
+
+    background-color: #21354e;
+    }
+
+    .hj{ 
+
+
+      background-color: #21354e;
+      color: white;
+      }
+    
+
+
+
+
+
+
+
+
+
+  
+  
+ 
+  
+  .ji, .overlay {
+      width: 100vw;
+      height: 100vh;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      position: fixed;
+  }
+  
+  .overlay {
+      background: rgba(49,49,49,0.8);
+  }
+  .iuo {
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      line-height: 1.4;
+      background: #f1f1f1;
+      padding: 14px 28px;
+      border-radius: 3px;
+      max-width: 600px;
+      min-width: 300px;
+  }
+  
+  .gy {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      padding: 5px 7px;
+  }
+
+

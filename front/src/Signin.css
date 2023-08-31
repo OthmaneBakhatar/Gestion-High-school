@@ -1,0 +1,161 @@
+/* 
+*{
+
+    margin: 0px;
+    padding: 0px;
+    
+
+     
+    }
+    
+    .containerr{
+    
+      width: 800px;
+      height: 450px;
+     
+      border-radius: 16px;
+      margin-top: 80px;
+      margin-left: 220px;
+    }
+    body{
+    
+      background-color: #eceef0;
+      margin: 0px;
+      padding: 0px;
+    }
+    .yo{
+    
+    
+    display: grid;
+    height: 300px;
+    grid-template-columns: auto auto;
+     
+    }
+    
+    .one{
+    
+      background-color: #21354e;
+      border-top-left-radius: 16px;
+      border-bottom-left-radius: 16px;
+      height: 450px;
+      width: 400px;
+      margin-left: -20px;
+    }
+    
+    .two{
+    
+      background-color: white;
+      border-top-right-radius: 16px;
+      border-bottom-right-radius: 16px;
+      height: 450px;
+      width: 410px;
+      margin-left:-12px ;
+    }
+    
+    
+    /* input */
+/*     
+    form{
+    
+ margin-left: 600px;
+ position: absolute;
+ top: 250px;
+ 
+    }
+
+    form input{
+    
+     width: 300px;
+     
+     padding-top:10px ;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom-color:#21354e ;
+         } 
+         form input:focus{
+    
+        outline: none;
+              } 
+   
+    
+    /* input
+    .bt{
+    color:white ;
+    background-color: #21354e;
+    position: relative;
+    left: 670px; 
+    bottom: 100px;
+    width: 297px;
+    border-radius: 16px;
+    height: 35px;
+    }
+    .bt:hover{
+     background-color:#21354e ;
+    
+    }
+   
+  
+  
+     .b{
+      color: white;
+      margin-left: 250px;
+      position: absolute;
+      top: 100px;
+      
+     }
+     .g{
+      color:#21354e ;
+      margin-left: 740px;
+      position: absolute;
+      top: 150px;
+      font-size: xx-large;
+      
+     }
+  
+     .fir{
+     width: 35px;
+     margin-left: 570px;
+     position: absolute;
+     top: 154px;
+      
+     }
+  
+     .j{
+      font-size: 35px;
+      margin-top: 80px;
+      margin-left: 50px;
+      
+     }
+     .k{
+      font-size: 30px;
+     
+      margin-left: 50px;
+      
+     }
+     .l{
+      font-size: 30px;
+     
+      margin-left: 50px;
+      
+     }
+     
+    
+      .hh{
+       width: 70px;
+       position: absolute;
+       top: 270px;
+       margin-left: 140px;
+        
+       }
+
+    @media (min-with:400px) and (max-with:1000px){
+
+      .one{
+    
+        background-color: red;
+        width: 100px;
+       
+      }
+
+    } */

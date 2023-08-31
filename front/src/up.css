@@ -1,0 +1,89 @@
+.oppp {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="date"] {
+    width: 38%;
+    height: 40px;
+    padding: 10px; 
+    margin-right: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }  
+  #cc { 
+    width: 87%;
+  }
+
+  form { 
+    margin-left: 461px;
+    margin-top: -549px;
+  }  
+  #env { 
+    display: block;
+    margin-left: 0px;
+    margin-top: 13px;
+    width: 38%;
+    padding: 11px;
+    font-weight: 700;
+    font-size: 16px;
+    height: 47px;
+    border-radius: 20px;
+  }
+  .se { 
+    border: none;
+    padding-top: 20px;
+  }
+  .up{ 
+  margin-left: 140px;
+  margin-bottom: 150px;
+  font-size: xx-large;
+  }
+  input[type="submit"] {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0062cc;
+  }
+  
+  label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .success {
+    color: green;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .form-container {
+    width: 500px;
+    margin: 0 auto;
+  } 
+
+
+  .classe { 
+    margin-right: 86px;
+    margin-bottom: 29px;
+  } 
